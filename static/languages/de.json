@@ -1,12 +1,12 @@
 {
-  "heading": "Bildungsausgaben in allen EU-Ländern gestiegen",
-  "subheading": "Staatliche Verteidigungsausgaben in Prozent des BIP in den Ländern der Europäischen Union im Jahr 2020",
+  "heading": "Jährliche Inflationsraten in Europa im April 2022",
+  "subheading": "Inflationsraten (%) gemessen am HVPI",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "des BIP",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Staatsausgaben nach Funktion und Art der COFOG (UNSD-Klassifikation der Staatsfunktionen, repliziert im ESVG 2010).",
+  "textNote": "HVPI (harmonisierte Verbraucherpreisindizes) von Eurostat – monatliche Daten (jährliche Veränderungsrate)",
   "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

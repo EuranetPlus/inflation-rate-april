@@ -1,12 +1,12 @@
 {
-  "heading": "Výdavky na vzdelávanie vo všetkých krajinách EÚ",
-  "subheading": "Výdavky verejnej správy na vojenskú obranu ako percento HDP v krajinách Európskej únie v roku 2020",
+  "heading": "Ročná miera inflácie v Európe v apríli 2022",
+  "subheading": "Miera inflácie (%) meraná HICP",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "HDP",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládne výdavky podľa funkcie a typu COFOG (klasifikácia funkcií verejnej správy OSN, replikovaná v ESA2010).",
+  "textNote": "HICP Eurostatu (harmonizované indexy spotrebiteľských cien) - mesačné údaje (ročná miera zmeny)",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=sk"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

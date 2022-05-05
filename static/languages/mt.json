@@ -1,12 +1,12 @@
 {
-  "heading": "L-infiq fl-edukazzjoni jiżdied fil-pajjiżi kollha tal-UE",
-  "subheading": "In-nefqa ġenerali tal-gvern fuq id-difiża militari bħala perċentwal tal-PGD fil-pajjiżi tal-Unjoni Ewropea fl-2020",
+  "heading": "Rati ta' inflazzjoni annwali fl-Ewropa f'April 2022",
+  "subheading": "Rati ta' inflazzjoni (%) imkejla mill-HICP",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-PGD",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textNote": "HICP tal-Eurostat (indiċijiet armonizzati tal-prezzijiet tal-konsumatur) - dejta ta' kull xahar (rata ta' bidla annwali)",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

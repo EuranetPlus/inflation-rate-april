@@ -1,12 +1,12 @@
 {
-  "heading": "Potrošnja na obrazovanje raste u svim zemljama EU",
-  "subheading": "Rashodi opće države za vojnu obranu kao postotak BDP-a u zemljama Europske unije u 2020.",
+  "heading": "Godišnje stope inflacije u Europi u travnju 2022",
+  "subheading": "Stope inflacije (%) mjerene HICP-om",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "BDP-a",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Državni rashodi prema funkciji i vrsti COFOG (UNSD klasifikacija funkcija vlade, replicirana u ESA2010).",
+  "textNote": "Eurostatov HICP (harmonizirani indeksi potrošačkih cijena) - mjesečni podaci (godišnja stopa promjene)",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

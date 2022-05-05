@@ -1,12 +1,12 @@
 {
-  "heading": "El gasto en educación aumenta en todos los países de la UE",
-  "subheading": "Gasto del gobierno general en defensa militar como porcentaje del PIB en países de la Unión Europea en 2020",
+  "heading": "Tasas de inflación anual en Europa en abril de 2022",
+  "subheading": "Tasas de inflación (%) medidas por el IPCA",
   "legend1": "Datos no disponibles",
   "tooltip1": "del PIB",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Gasto público por función y tipo de COFOG (clasificación de funciones de gobierno de la UNSD, replicada en ESA2010).",
+  "textNote": "IAPC de Eurostat (índices armonizados de precios de consumo) - datos mensuales (tasa de variación anual)",
   "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

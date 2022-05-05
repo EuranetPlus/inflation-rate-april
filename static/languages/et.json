@@ -1,12 +1,12 @@
 {
-  "heading": "Hariduskulud kõigis ELi riikides",
-  "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
+  "heading": "Aastane inflatsioonimäär Euroopas 2022. aasta aprillis",
+  "subheading": "ÜTHIga mõõdetud inflatsioonimäärad (%)",
   "legend1": "Andmed puuduvad",
   "tooltip1": "SKTst",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010-s) funktsiooni ja tüübi järgi.",
+  "textNote": "Eurostati THHI (tarbijahindade ühtlustatud indeksid) – igakuised andmed (muutuse aastane määr)",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

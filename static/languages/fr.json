@@ -1,12 +1,12 @@
 {
-  "heading": "Les dépenses d'éducation augmentent dans tous les pays de l'UE",
-  "subheading": "Dépenses publiques de défense militaire en pourcentage du PIB dans les pays de l'Union européenne en 2020",
+  "heading": "Taux d'inflation annuels en Europe en avril 2022",
+  "subheading": "Taux d'inflation (%) mesurés par l'IPCH",
   "legend1": "Pas de données disponibles",
   "tooltip1": "du PIB",
   "textSourceDescription": "La source",
   "textSource": "Eurostat",
   "textNoteDescription": "Noter",
-  "textNote": "Dépenses publiques par COFOG (Classification UNSD des fonctions du gouvernement, reproduite dans le SEC 2010) fonction et type.",
+  "textNote": "IPCH d'Eurostat (indices des prix à la consommation harmonisés) - données mensuelles (taux de variation annuel)",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

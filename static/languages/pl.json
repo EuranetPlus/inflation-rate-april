@@ -1,12 +1,12 @@
 {
-  "heading": "Wzrost wydatków na edukację we wszystkich krajach UE",
-  "subheading": "Wydatki sektora instytucji rządowych i samorządowych na obronę wojskową jako procent PKB w krajach Unii Europejskiej w 2020 roku",
+  "heading": "Roczna stopa inflacji w Europie w kwietniu 2022 r.",
+  "subheading": "Stopy inflacji (%) mierzone za pomocą HICP",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "PKB",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządu według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
+  "textNote": "HICP (zharmonizowane wskaźniki cen konsumpcyjnych) Eurostatu – dane miesięczne (roczna stopa zmian)",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

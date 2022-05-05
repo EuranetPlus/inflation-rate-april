@@ -1,12 +1,12 @@
 {
-  "heading": "Išlaidos švietimui visose ES šalyse",
-  "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
+  "heading": "Metinis infliacijos lygis Europoje 2022 m. balandžio mėn",
+  "subheading": "Infliacijos lygiai (%), matuojami SVKI",
   "legend1": "Nėra duomenų",
   "tooltip1": "BVP",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
+  "textNote": "Eurostato SVKI (suderinti vartotojų kainų indeksai) – mėnesio duomenys (metinis pokyčio tempas)",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

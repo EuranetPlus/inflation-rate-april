@@ -1,12 +1,12 @@
 {
-  "heading": "Αυξάνονται οι δαπάνες για την εκπαίδευση σε όλες τις χώρες της ΕΕ",
-  "subheading": "Δαπάνες γενικής κυβέρνησης για στρατιωτική άμυνα ως ποσοστό του ΑΕΠ στις χώρες της Ευρωπαϊκής Ένωσης το 2020",
+  "heading": "Ετήσιοι ρυθμοί πληθωρισμού στην Ευρώπη τον Απρίλιο του 2022",
+  "subheading": "Ρυθμοί πληθωρισμού (%) μετρούμενοι με τον ΕνΔΤΚ",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "του ΑΕΠ",
   "textSourceDescription": "Πηγή",
   "textSource": "Eurostat",
   "textNoteDescription": "Σημείωση",
-  "textNote": "Κρατικές δαπάνες κατά COFOG (ταξινόμηση UNSD των λειτουργιών της κυβέρνησης, που αναπαράγεται στο ESA2010) λειτουργία και τύπος.",
+  "textNote": "ΕνΔΤΚ της Eurostat (εναρμονισμένοι δείκτες τιμών καταναλωτή) - μηνιαία στοιχεία (ετήσιος ρυθμός μεταβολής)",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

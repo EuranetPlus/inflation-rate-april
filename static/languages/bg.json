@@ -1,12 +1,12 @@
 {
-  "heading": "Разходите за образование се увеличават във всички страни от ЕС",
-  "subheading": "Държавните разходи за военна отбрана като процент от БВП в страните от Европейския съюз през 2020 г.",
+  "heading": "Годишни темпове на инфлация в Европа през април 2022 г",
+  "subheading": "Ниво на инфлация (%), измерено чрез ХИПЦ",
   "legend1": "Няма данни",
-  "tooltip1": "от БВП",
+  "tooltip1": "на БВП",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "Държавни разходи по COFOG (класификация на функциите на правителството на UNSD, възпроизведена в ESA2010) функция и вид.",
+  "textNote": "ХИПЦ на Евростат (хармонизирани индекси на потребителските цени) - месечни данни (годишен темп на промяна)",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }

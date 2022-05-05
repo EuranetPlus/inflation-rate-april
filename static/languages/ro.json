@@ -1,12 +1,12 @@
 {
-  "heading": "Cheltuielile pentru educație în toate țările UE",
-  "subheading": "Cheltuielile publice generale pentru apărarea militară ca procent din PIB în țările Uniunii Europene în 2020",
+  "heading": "Ratele anuale ale inflației în Europa în aprilie 2022",
+  "subheading": "Ratele inflației (%) măsurate prin IAPC",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "a PIB-ului",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Notă",
-  "textNote": "Cheltuielile guvernamentale după funcția și tipul COFOG (clasificarea UNSD a funcțiilor guvernamentale, replicată în ESA2010).",
+  "textNote": "IAPC Eurostat (indici armonizați ai prețurilor de consum) - date lunare (rata anuală de variație)",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_118059/bookmark/table?lang=en&bookmarkId=45a0a8c6-966f-43c6-9d30-9edb61e4af3b"
 }
